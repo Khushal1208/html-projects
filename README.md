@@ -11,4 +11,8 @@ First, you have to create a webpage. You can then add a picture of the person yo
 ![image](https://github.com/user-attachments/assets/e4987b2c-7726-48e8-914b-b365e1af724e)
 
 
+2. Essential for Web Development
+HTML is the cornerstone of web development. It offers the structure and framework for web content. That means, when you develop a web page, you can use HTML to define the layout, headings, paragraphs, links, images, and many other things. Learning HTML is the first step towards becoming a web developer, as it forms the foundation for building more advanced skills in front-end and back-end development.
+
+
 
