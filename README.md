@@ -1,6 +1,8 @@
 # html-projects
 mini projects using HTML (learning language by building projects makes learning faster :)
 
+https://www.upgrad.com/blog/html-project-ideas-topics-for-beginners/
+
 Best HTML Project Ideas For Beginners and Students
 
 1. A tribute page
