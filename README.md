@@ -13,8 +13,7 @@ First, you have to create a webpage. You can then add a picture of the person yo
 ![image](https://github.com/user-attachments/assets/e4987b2c-7726-48e8-914b-b365e1af724e)
 
 
-2. Essential for Web Development
-HTML is the cornerstone of web development. It offers the structure and framework for web content. That means, when you develop a web page, you can use HTML to define the layout, headings, paragraphs, links, images, and many other things. Learning HTML is the first step towards becoming a web developer, as it forms the foundation for building more advanced skills in front-end and back-end development.
-
+2. A Survey form
+This passage discusses creating a survey form for websites to gather customer data such as demographics, preferences, and pain points. It highlights the importance of knowing HTML tags and input fields (text fields, checkboxes, radio buttons, date selectors) for form design. CSS can be used to enhance the form's appearance. Building such a form is straightforward and helps improve skills in web design and structuring.
 
 
