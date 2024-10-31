@@ -17,3 +17,5 @@ First, you have to create a webpage. You can then add a picture of the person yo
 This passage discusses creating a survey form for websites to gather customer data such as demographics, preferences, and pain points. It highlights the importance of knowing HTML tags and input fields (text fields, checkboxes, radio buttons, date selectors) for form design. CSS can be used to enhance the form's appearance. Building such a form is straightforward and helps improve skills in web design and structuring.
 
 
+3.
+
